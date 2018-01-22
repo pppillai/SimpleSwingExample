@@ -7,9 +7,7 @@ public class SimpleExample extends JFrame {
 
 
   public SimpleExample() {
-
     initUI();
-
   }
 
 
